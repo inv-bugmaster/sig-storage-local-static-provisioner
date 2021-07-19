@@ -1,7 +1,3 @@
-# TODO
-
-## P0
-* Redesign for security hardening (verult)
 
 ## P1
 
